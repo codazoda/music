@@ -2,6 +2,10 @@
 
 This is a place for me to collect music information. I plan to include music cheat sheets, software setup instructions, chord charts, song chords, etc.
 
+## My Music Software
+
+[Music Generator](https://github.com/codazoda/music_generator) - Javascript library for creating random music.
+
 ## Caustic Sounds
 
 | Name            | Caustic                            |
